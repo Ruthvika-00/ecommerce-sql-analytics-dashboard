@@ -1,2 +1,48 @@
 # ecommerce-sql-analytics-dashboard
 SQL-based e-commerce analytics project using JOINs, CTEs, and window functions with Tableau dashboard for business insights
+# 📊 E-Commerce Sales Analytics Dashboard
+
+## 🚀 Overview
+This project analyzes e-commerce sales data to uncover key business insights such as revenue trends, top-performing categories, and product performance.  
+The analysis is performed using SQL and visualized through an interactive Tableau dashboard.
+
+---
+
+## 🛠️ Tools & Technologies
+- SQL (JOINs, CTEs, Window Functions)
+- Python (Pandas)
+- Tableau Public
+- Google Colab
+
+---
+
+## 📂 Dataset
+- E-commerce sales dataset (Amazon & International sales)
+- Includes product details, orders, pricing, and revenue data  
+- Note: Sample dataset used due to size constraints
+
+---
+
+## 🔍 Key Analysis Performed
+- Revenue analysis by product category  
+- Ranking top-performing categories using window functions  
+- Percentage contribution of each category to total revenue  
+- International sales performance analysis  
+- Data cleaning and transformation using Python  
+
+---
+
+## 📈 Key Insights
+- Top 2 categories contribute ~60% of total revenue  
+- "KURTA SET" and "KURTA" are the highest revenue-generating categories  
+- Significant revenue drop after top 5 categories → indicates product concentration  
+- Opportunity to optimize low-performing categories  
+
+---
+
+## 📊 Dashboard
+(Insert Tableau Dashboard Screenshot Here)
+
+---
+
+## 📁 Project Structure
