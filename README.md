@@ -43,19 +43,6 @@ https://public.tableau.com/views/E-CommerceSalesAnalysisDashboard_17739367952770
 
 ---
 
-## 📁 Project Structure
-ecommerce-sql-analytics-dashboard/
-│
-├── notebook.ipynb
-├── revenue_analysis.csv
-├── data/
-│ └── sample_data.csv
-├── screenshots/
-│ └── dashboard.png
-└── README.md
-
----
-
 ## 💡 Future Improvements
 - Add customer segmentation (RFM analysis)  
 - Build predictive model for sales forecasting  
