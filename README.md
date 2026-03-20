@@ -39,8 +39,31 @@ The analysis is performed using SQL and visualized through an interactive Tablea
 ---
 
 ## 📊 Dashboard
-(Insert Tableau Dashboard Screenshot Here)
+https://public.tableau.com/views/E-CommerceSalesAnalysisDashboard_17739367952770/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
 ## 📁 Project Structure
+ecommerce-sql-analytics-dashboard/
+│
+├── notebook.ipynb
+├── revenue_analysis.csv
+├── data/
+│ └── sample_data.csv
+├── screenshots/
+│ └── dashboard.png
+└── README.md
+
+---
+
+## 💡 Future Improvements
+- Add customer segmentation (RFM analysis)  
+- Build predictive model for sales forecasting  
+- Integrate real-time dashboard with live database  
+
+---
+
+## 👤 Author
+Ruthvika Martha  
+- LinkedIn: https://www.linkedin.com/in/ruthvika-martha-45b226321  
+- GitHub: https://github.com/Ruthvika-00
